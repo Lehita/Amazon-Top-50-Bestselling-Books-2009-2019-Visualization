@@ -6,3 +6,6 @@
 #### The data was downloaded as a CSV file from kaggle.com and uploaded to Jupyter Notebook using the pandas.read_csv() command.
 #### Basic data exploration and cleaning were done in the Jupyter environment before exporting the dataset in CSV format.
 #### The data was then uploaded to Tableau for visualization and analysis. The result of the analysis can be found in this short Medium article: https://medium.com/@azamegbesarah/amazon-top-50-bestselling-books-analysis-b390cc81acef?_branch_match_id=1064648371784712689&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9bLTU3JLM3VS87P1fdMcQotyvVLLitJAgCOv1ZlIwAAAA%3D%3D
+#### Snippets of the article👇
+#### ![alt text](https://github.com/Lehita/Amazon-Visualization/blob/f9fe5d400fde0a6755e4ec838bf64957d213808c/Screenshot_1.jpg)
+#### ![alt text](https://github.com/Lehita/Amazon-Visualization/blob/f9fe5d400fde0a6755e4ec838bf64957d213808c/Screenshot_2.jpg)
